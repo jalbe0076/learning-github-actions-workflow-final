@@ -4,5 +4,5 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:  
-      -uses: actions/checkout@v4
-      -uses: jalbe0076/learning-github-actions-final-exercise@main
+      - uses: actions/checkout@v4
+      - uses: jalbe0076/learning-github-actions-final-exercise@main
